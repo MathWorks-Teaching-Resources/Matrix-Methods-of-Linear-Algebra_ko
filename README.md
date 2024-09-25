@@ -2,7 +2,7 @@
 # <span style="color:rgb(213,80,0)">선형 대수학의 행렬 방법</span>
 <a name="H_053613DF"></a>
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/XXXX-matrix-methods-of-linear-algebra) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj&file=README_ko.mlx)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/173110) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj&file=README_ko.mlx)
 
 ![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMathWorks-Teaching-Resources%2FApplied-PDEs%2Frelease%2FImages%2FTestedWith.json)
 
@@ -46,7 +46,7 @@ MATLAB®이 전반적으로 사용됩니다. Symbolic Math Toolbox™, Statistic
 <a name="H_E8C62B23"></a>
 # 스크립트
 
-*R2023b 이전 버전의 MATLAB에서 이 내용을 보고 있는 경우 각 스크립트의 학습 결과를* [*여기*](https://www.mathworks.com/matlabcentral/fileexchange/XXXXX-matrix-methods-of-linear-algebra)에서 확인할 수 있습니다.
+*R2023b 이전 버전의 MATLAB에서 이 내용을 보고 있는 경우 각 스크립트의 학습 결과를* [*여기*](https://www.mathworks.com/matlabcentral/fileexchange/173110)에서 확인할 수 있습니다.
 
 ## [**MatrixOperations_ko.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj&file=Scripts/MatrixOperations_ko.mlx)
 | <img src="Images/image_3.png" width="171" alt="image_3.png"> | **이 스크립트에서 학생들은...** <br>-  행렬과 그 기본 산술 연산을 정의합니다 <br>-  종이와 MATLAB에서 행렬 연산의 결과를 계산합니다 <br>-  행렬 연산의 크기 요구 사항을 설명합니다 <br>-  MATLAB에서 기호 및 숫자 행렬 연산을 비교합니다 <br>-  회색조 이미지를 수정하기 위해 행렬 방법을 적용합니다 | **학문 분야** <br>-  선형대수 <br>-  이미지 처리  |
