@@ -13,7 +13,7 @@ jobs:
     strategy: 
       fail-fast: false
       matrix:
-        MATLABVersion: [R2021a,R2021b,R2022a,R2022b,R2023a,R2023b]
+        MATLABVersion: [R2024a,R2024b]
     runs-on: ubuntu-latest
     steps:
       # Checks-out your repository
@@ -23,8 +23,11 @@ jobs:
       - name: Setup MATLAB
         uses: matlab-actions/setup-matlab@v1
         with:
-          release: ${{ matrix.MATLABVersion }}
-
+          release: ${{ matrix.MATLABVersion }}\
+          products: >
+              Symbolic_Math_Toolbox 
+              Image_Processing_Toolbox
+              Statistics_and_Machine_Learning_Toolbox
       # Run all the tests
       - name: Run SmokeTests
         uses: matlab-actions/run-command@v1
