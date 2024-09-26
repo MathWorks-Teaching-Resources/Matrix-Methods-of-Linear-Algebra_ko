@@ -2,7 +2,7 @@
 # <span style="color:rgb(213,80,0)">선형 대수학의 행렬 방법</span>
 <a name="H_053613DF"></a>
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/173110) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj&file=README_ko.mlx)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/173110) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra_ko&project=MatrixMethods.prj&file=README_ko.mlx)
 
 ![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMathWorks-Teaching-Resources%2FApplied-PDEs%2Frelease%2FImages%2FTestedWith.json)
 
@@ -30,11 +30,11 @@ _R2020b로 제작되었습니다. R2020b 및 이후 릴리스와 호환됩니다
 ### 모듈 접근하기
 ### **MATLAB Online에서:**
 
-[<img src="Images/image_1.png" width="136" alt="image_1.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj&file=README_ko.mlx) 링크를 사용하여 모듈을 다운로드합니다. 로그인하거나 MathWorks 계정을 만들라는 메시지가 표시됩니다. 프로젝트가 로드되고 시작하는 데 도움이 되는 여러 탐색 옵션이 있는 앱이 표시됩니다. 
+[<img src="Images/image_1.png" width="136" alt="image_1.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra_ko&project=MatrixMethods.prj&file=README_ko.mlx) 링크를 사용하여 모듈을 다운로드합니다. 로그인하거나 MathWorks 계정을 만들라는 메시지가 표시됩니다. 프로젝트가 로드되고 시작하는 데 도움이 되는 여러 탐색 옵션이 있는 앱이 표시됩니다. 
 
 ### **데스크탑에서:**
 
-이 리포지토리를 다운로드하거나 복제합니다. MATLAB을 열고 이러한 스크립트가 있는 폴더로 이동한 다음 [MatrixMethods.prj](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj)을 더블 클릭합니다. MATLAB 경로에 적절한 파일을 추가하고 시작할 위치를 묻는 앱이 열립니다.
+이 리포지토리를 다운로드하거나 복제합니다. MATLAB을 열고 이러한 스크립트가 있는 폴더로 이동한 다음 [MatrixMethods.prj](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra_ko&project=MatrixMethods.prj)을 더블 클릭합니다. MATLAB 경로에 적절한 파일을 추가하고 시작할 위치를 묻는 앱이 열립니다.
 
 필요한 모든 제품이 설치되어 있는지 확인하세요([아래 목록 참조](#H_E850B4FF)). 제품을 추가해야 하는 경우 Add-On Explorer를 사용하여 추가하세요. 애드온을 설치하려면 **Home** 탭으로 이동하여 <img src="Images/image_2.png" width="16" alt="image_2.png"> **Add-Ons** > **Get Add-Ons**를 선택하세요.
 
@@ -48,23 +48,23 @@ MATLAB®이 전반적으로 사용됩니다. Symbolic Math Toolbox™, Statistic
 
 *R2023b 이전 버전의 MATLAB에서 이 내용을 보고 있는 경우 각 스크립트의 학습 결과를* [*여기*](https://www.mathworks.com/matlabcentral/fileexchange/173110)에서 확인할 수 있습니다.
 
-## [**MatrixOperations_ko.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj&file=Scripts/MatrixOperations_ko.mlx)
+## [**MatrixOperations_ko.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra_ko&project=MatrixMethods.prj&file=Scripts/MatrixOperations_ko.mlx)
 | <img src="Images/image_3.png" width="171" alt="image_3.png"> | **이 스크립트에서 학생들은...** <br>-  행렬과 그 기본 산술 연산을 정의합니다 <br>-  종이와 MATLAB에서 행렬 연산의 결과를 계산합니다 <br>-  행렬 연산의 크기 요구 사항을 설명합니다 <br>-  MATLAB에서 기호 및 숫자 행렬 연산을 비교합니다 <br>-  회색조 이미지를 수정하기 위해 행렬 방법을 적용합니다 | **학문 분야** <br>-  선형대수 <br>-  이미지 처리  |
 | :-- | :-- | :-- |
 
-## [**LinearSystems_ko.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj&file=Scripts/LinearSystems_ko.mlx)
+## [**LinearSystems_ko.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra_ko&project=MatrixMethods.prj&file=Scripts/LinearSystems_ko.mlx)
 | <img src="Images/image_4.png" width="171" alt="image_4.png"> | **이 스크립트에서 학생들은...** <br>-  행렬 형태로 선형 시스템을 작성합니다 <br>-  3차원에서 선형 시스템의 해를 시각화와 연관시킵니다 <br>-  행 감소 및 역행렬을 사용하여 선형 방정식 시스템을 풉니다 <br>-  행렬식 관점에서 선형 시스템의 풀이 가능성을 설명합니다 <br>-  MATLAB을 사용하여 선형 시스템을 풉니다 | **학문 분야** <br>-  선형대수  |
 | :-- | :-- | :-- |
 
-## [**LinearSystemsApplications_ko.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj&file=Scripts/LinearSystemsApplications_ko.mlx)
+## [**LinearSystemsApplications_ko.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra_ko&project=MatrixMethods.prj&file=Scripts/LinearSystemsApplications_ko.mlx)
 | <img src="Images/image_5.png" width="171" alt="image_5.png"> | **이 스크립트에서 학생들은...** <br>-  선형 회귀 및 선형 회로 분석에 행렬 방법을 적용합니다 | **학문 분야** <br>-  선형대수 <br>-  통계 분석 <br>-  회로 분석  |
 | :-- | :-- | :-- |
 
-## [**Eigenanalysis_ko.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj&file=Scripts/Eigenanalysis_ko.mlx)
+## [**Eigenanalysis_ko.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra_ko&project=MatrixMethods.prj&file=Scripts/Eigenanalysis_ko.mlx)
 | <img src="Images/image_6.png" width="171" alt="image_6.png"> | **이 스크립트에서 학생들은...** <br>-  2차원에서 고유벡터를 시각화합니다 <br>-  종이에서 2x2 행렬의 고유값과 고유벡터를 풀고, MATLAB을 사용하여 더 큰 행렬을 풉니다 <br>-  종이에서 2x2 행렬을 대각화하고, MATLAB에서 더 큰 행렬을 대각화합니다 <br>-  고유값 관점에서 선형 시스템의 해 가능성을 설명합니다 <br>-  결함 있는 행렬에 대해 논의합니다 | **학문 분야** <br>-  선형대수  |
 | :-- | :-- | :-- |
 
-## [**EigenanalysisApplications_ko.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra&project=MatrixMethods.prj&file=Scripts/EigenanalysisApplications_ko.mlx)
+## [**EigenanalysisApplications_ko.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra_ko&project=MatrixMethods.prj&file=Scripts/EigenanalysisApplications_ko.mlx)
 | <img src="Images/image_7.png" width="171" alt="image_7.png"> | **이 스크립트에서 학생들은...** <br>-  고유 분석을 사용하여 진동과 마르코프 체인의 장기적 거동을 이해합니다 | **학문 분야** <br>-  선형대수 <br>-  물리 시스템 <br>-  통계 모델링  |
 | :-- | :-- | :-- |
 
@@ -86,7 +86,7 @@ MATLAB®이 전반적으로 사용됩니다. Symbolic Math Toolbox™, Statistic
 <a name="H_0FA5DA18"></a>
 # 기여하기 
 
-더 많은 정보를 찾고 계신가요? 문제를 발견하셨나요? 제안이 있으신가요? [MathWorks 교육 리소스 팀](mailto:%20onlineteaching@mathworks.com)에 문의해 주세요. 이 프로젝트에 직접 기여하고 싶다면, GitHub의 [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra/blob/release/CONTRIBUTING.md) 페이지에서 방법에 대한 정보를 찾을 수 있습니다.
+더 많은 정보를 찾고 계신가요? 문제를 발견하셨나요? 제안이 있으신가요? [MathWorks 교육 리소스 팀](mailto:%20onlineteaching@mathworks.com)에 문의해 주세요. 이 프로젝트에 직접 기여하고 싶다면, GitHub의 [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra_ko/blob/release/CONTRIBUTING.md) 페이지에서 방법에 대한 정보를 찾을 수 있습니다.
 
  *©* Copyright 2024 The MathWorks™, Inc.
 
