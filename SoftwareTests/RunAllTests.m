@@ -40,8 +40,7 @@ end
 
 % Format the results in a table and save them
 ResultsTable = table(Results')
-writetable(ResultsTable,fullfile(currentProject().RootFolder,...
-    "SoftwareTests","TestResults_R"+version("-release")+".txt"));
+writetable(ResultsTable,fullfile("SoftwareTests","TestResults_"+release_version+".txt"));
 
 % Assert success of test
 assertSuccess(Results);

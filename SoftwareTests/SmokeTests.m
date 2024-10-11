@@ -79,6 +79,7 @@ classdef SmokeTests < matlab.unittest.TestCase
 
         function closeAllFigure(testCase)
             close all force  % Close figure windows
+            bdclose all      % Close Simulink models
         end
 
     end % methods (TestClassTeardown)
