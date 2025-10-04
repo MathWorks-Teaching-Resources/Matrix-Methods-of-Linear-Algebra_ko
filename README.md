@@ -81,7 +81,7 @@ MATLAB®이 전반적으로 사용됩니다. Symbolic Math Toolbox™, Statistic
 | <img src="Images/image_11.png" width="171" alt="image_11.png"> | **제공:** <br>[<img src="Images/image_12.png" width="91" alt="image_12.png">](https://www.mathworks.com/matlabcentral/fileexchange/136364-applied-linear-algebra) <br>[<img src="Images/image_13.png" width="136" alt="image_13.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-Linear-Algebra&project=AppliedLinAlg.prj)<br>[GitHub](https://github.com/MathWorks-Teaching-Resources/Applied-Linear-Algebra)  |
 | :-- | :-- |
 
-또는 다른 [모듈식 코스웨어 콘텐츠](https://www.mathworks.com/matlabcentral/fileexchange/?q=tag%3A%22courseware+module%22&sort=downloads_desc_30d)를 탐색해 보세요.
+또는 다른 [모듈식 코스웨어 콘텐츠](https://www.mathworks.com/matlabcentral/fileexchange/?q=author%3A%22MathWorks+Educator+Content+Development+Team%22&sort=relevancy)를 탐색해 보세요.
 
 # 교육자 리소스
 -  [교육자 페이지](https://www.mathworks.com/academia/educators.html) 
@@ -90,6 +90,6 @@ MATLAB®이 전반적으로 사용됩니다. Symbolic Math Toolbox™, Statistic
 
 더 많은 정보를 찾고 계신가요? 문제를 발견하셨나요? 제안이 있으신가요? [MathWorks 교육 리소스 팀](mailto:%20onlineteaching@mathworks.com)에 문의해 주세요. 이 프로젝트에 직접 기여하고 싶다면, GitHub의 [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Matrix-Methods-of-Linear-Algebra_ko/blob/release/CONTRIBUTING.md) 페이지에서 방법에 대한 정보를 찾을 수 있습니다.
 
- *©* Copyright 2024 The MathWorks™, Inc.
+ *©* Copyright 2025 The MathWorks™, Inc.
 
 
